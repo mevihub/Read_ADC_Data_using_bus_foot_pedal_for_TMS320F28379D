@@ -1,0 +1,1 @@
+"./F2837xD_GlobalVariableDefs.obj" "./main.obj" "./Drivers/F2837xD_CodeStartBranch.obj" "./Drivers/device.obj" "../2837x_FLASH_lnk_cpu1.cmd" "C:/ti/C2000Ware_4_00_00_00/driverlib/f2837xd/driverlib/ccs/Debug/driverlib.lib" -llibc.a -l"C:/ti/C2000Ware_4_00_00_00/device_support/f2837xd/headers/cmd/F2837xD_Headers_nonBIOS_cpu1.cmd" 
